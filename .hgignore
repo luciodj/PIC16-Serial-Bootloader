@@ -1,2 +1,10 @@
 syntax: glob
 .DS_Store
+funclist
+*.obj
+*.pyc
+build
+dist
+private
+
+Serial Bootloader AN1310 v1\.05
